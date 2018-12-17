@@ -11,12 +11,7 @@ calculate_set(30,40, geo = "rowanda", etheraddress= "xu203942",
                  city="london", 
                  email = "abc@gmail.com", country_of_origin="kz")
 
-s;ldkjflsdjflasjdfjlasjdlfjsd
-sdflskjdflsjdlfjsdjf lj lj
-0293jr0239j
 
-'''adding anew footer'
-sldfjsldfjlsdjflsjdfsd
-sldjf"sldjflsdjfsl\sldfjsldfj\"sldjflsdjf
-'''
 
+print("this is commit fromthe local repo")
+print("я хочу это видеть в общем репо")
