@@ -16,4 +16,4 @@ calculate_set(30,40, geo = "rowanda", etheraddress= "xu203942",
 print("this is commit fromthe local repo")
 print("я хочу это видеть в общем репо")
 
-print("еще раз запуляем в общий репо - чтоб все видели!!!!!")
+print("а это изменение будет видно только в новой ветке")
