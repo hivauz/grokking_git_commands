@@ -1,0 +1,69 @@
+1544905085909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\erjan222\\AppData\\Local\\Temp\\rust_mozprofile.Dc7f2whshaCW"
+1544905258074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\erjan222\\AppData\\Local\\Temp\\rust_mozprofile.OP5kkSVv0vPK"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1544905273862	Marionette	INFO	Listening on port 51208
+1544905274291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544905274395	Marionette	DEBUG	[6442450945] Frame script loaded
+1544905274452	Marionette	DEBUG	[6442450945] Frame script registered
+1544905274486	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544905279564	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544905290669	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.chrisburkard.com/
+1544905293514	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.chrisburkard.com/
+[Child 7448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1544905314300	Marionette	INFO	Stopped listening on port 51208
+1544905368275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\erjan222\\AppData\\Local\\Temp\\rust_mozprofile.uZNmXZOim5jm"
+1544905383930	Marionette	INFO	Listening on port 51329
+1544905384058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544905384170	Marionette	DEBUG	[6442450945] Frame script loaded
+1544905384240	Marionette	DEBUG	[6442450945] Frame script registered
+1544905384802	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544905393469	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544905401099	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.chrisburkard.com/
+1544905403863	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.chrisburkard.com/
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[Child 7168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc1544905935681	Marionette	INFO	Listening on port 51494
+1544905935926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544905936158	Marionette	DEBUG	[4294967297] Frame script loaded
+1544905936366	Marionette	DEBUG	[4294967297] Frame script registered
+1544905936442	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1544905940041	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1544905949336	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.chrisburkard.com/
+1544905951504	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.chrisburkard.com/
+[Parent 4184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2348, Chrome_1544906234405	Marionette	INFO	Listening on port 51655
+1544906235000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544906235323	Marionette	DEBUG	[4294967297] Frame script loaded
+1544906235344	Marionette	DEBUG	[4294967297] Frame script registered
+1544906235825	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1544906242031	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1544906253213	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.chrisburkard.com/
+1544906260325	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.chrisburkard.com/
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:711:13
+
+[Child 7432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7508, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1544906790609	Marionette	INFO	Stopped listening on port 51655
+[GPU 8008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
