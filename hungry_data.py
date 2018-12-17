@@ -13,3 +13,10 @@ calculate_set(30,40, geo = "rowanda", etheraddress= "xu203942",
 
 s;ldkjflsdjflasjdfjlasjdlfjsd
 sdflskjdflsjdlfjsdjf lj lj
+0293jr0239j
+
+'''adding anew footer'
+sldfjsldfjlsdjflsjdfsd
+sldjf"sldjflsdjfsl\sldfjsldfj\"sldjflsdjf
+'''
+
