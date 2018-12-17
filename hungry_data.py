@@ -10,3 +10,6 @@ calculate_set(30,40, geo = "rowanda", etheraddress= "xu203942",
                  address="baker street 304", 
                  city="london", 
                  email = "abc@gmail.com", country_of_origin="kz")
+
+s;ldkjflsdjflasjdfjlasjdlfjsd
+sdflskjdflsjdlfjsdjf lj lj
