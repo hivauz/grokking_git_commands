@@ -1,3 +1,5 @@
+
+print("эта строка будет видно только в новом брэнче")
 import csv
 with open("data.csv", "w+") as csvfile:
     writer = csv.writer(csvfile)

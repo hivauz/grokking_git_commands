@@ -17,6 +17,8 @@ print("this is commit fromthe local repo")
 print("я хочу это видеть в общем репо")
 
 print("а это изменение будет видно только в новой ветке")
+<<<<<<< HEAD
 print("а это изменение из ветки лалалалал")
 
 
+print("resolved it awwesomely")
